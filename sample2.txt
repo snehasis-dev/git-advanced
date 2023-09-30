@@ -1,1 +1,3 @@
 this is smaple2 from feature branch
+
+this is 2 nd changes from feature branch1
