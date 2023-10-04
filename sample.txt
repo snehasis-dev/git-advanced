@@ -9,4 +9,21 @@ changes from f3
 
 another changes from master
 
+
+
+changes from feature3
+
+changes from feature3
+
+changes from remote feature 3
+
+changes from feature1
+
+
+changes from feature3
+
+changes from feature3
+
+changes from remote feature 3
+
 changes from feature1
