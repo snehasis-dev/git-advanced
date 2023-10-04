@@ -6,3 +6,6 @@ changes from remote feature branch 3
 
 
 changes from local feature3
+
+
+changes 3 from local feature branch3
