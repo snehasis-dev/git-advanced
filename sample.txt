@@ -12,3 +12,7 @@ another changes from master
 
 
 changes from feature3
+
+changes from feature3
+
+changes from remote feature 3
