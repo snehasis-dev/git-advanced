@@ -7,3 +7,6 @@ changes from f3
 another changes from f3
 
 changes from local f2
+
+
+changes 3 from local feature3
