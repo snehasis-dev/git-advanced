@@ -14,3 +14,4 @@ another changes from local feature branch3
 
 changes from remote
 another changes from local feature branch3 - 4
+another changes from local feature branch3
